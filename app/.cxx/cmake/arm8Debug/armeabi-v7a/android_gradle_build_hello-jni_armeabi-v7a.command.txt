@@ -1,0 +1,7 @@
+Executable : /home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/arm8Debug/armeabi-v7a
+hello-jni
+jvmArgs : 
+

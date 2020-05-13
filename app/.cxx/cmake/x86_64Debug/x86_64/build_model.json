@@ -1,0 +1,193 @@
+{
+  "abi": "X86_64",
+  "abiPlatformVersion": 23,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86_64",
+    "cmakeServerLogFile": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86_64/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cxx/x86_64Debug/x86_64",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86_64",
+      "cmakeToolchain": "/home/daniel/Android/Sdk/ndk/21.1.6363665/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/home/daniel/Android/Sdk/ndk/21.1.6363665/build/cmake/android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/home/daniel/Android/Sdk/ndk/21.1.6363665"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-23"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/home/daniel/Android/Sdk/ndk/21.1.6363665"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/home/daniel/Desktop/erlanglauncher/app/build/intermediates/cmake/x86_64Debug/obj/x86_64"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "23"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86_64",
+  "variant": {
+    "buildSystemArgumentList": [],
+    "buildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "cmakeToolchainFile": "/home/daniel/Android/Sdk/ndk/21.1.6363665/build/cmake/android.toolchain.cmake",
+      "cxxFolder": "/home/daniel/Desktop/erlanglauncher/app/.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "/home/daniel/Desktop/erlanglauncher/app/build/intermediates",
+      "makeFile": "/home/daniel/Desktop/erlanglauncher/app/src/main/cpp/CMakeLists.txt",
+      "moduleBuildFile": "/home/daniel/Desktop/erlanglauncher/app/build.gradle",
+      "moduleRootFolder": "/home/daniel/Desktop/erlanglauncher/app",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "/home/daniel/Android/Sdk/ndk/21.1.6363665",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkVersion": "21.1.6363665-rc3",
+      "project": {
+        "compilerSettingsCacheFolder": "/home/daniel/Desktop/erlanglauncher/.cxx",
+        "cxxFolder": "/home/daniel/Desktop/erlanglauncher/.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "/home/daniel/Desktop/erlanglauncher",
+        "sdkFolder": "/home/daniel/Android/Sdk"
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "/home/daniel/Desktop/erlanglauncher/app/build/intermediates/cmake/x86_64Debug/obj",
+    "variantName": "x86_64Debug",
+    "validAbiList": [
+      "X86",
+      "X86_64"
+    ]
+  }
+}

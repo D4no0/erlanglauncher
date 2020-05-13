@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalDebug/x86_64",
+    "1": "--target=x86_64-none-linux-android23 --gcc-toolchain=/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dhello_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/daniel/Android/Sdk/ndk/21.1.6363665/build/cmake/android.toolchain.cmake",
+    "/home/daniel/Android/Sdk/ndk/21.1.6363665/build/cmake/platforms.cmake",
+    "/home/daniel/Desktop/erlanglauncher/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalDebug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalDebug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "hello-jni-Debug-x86_64": {
+      "buildCommand": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalDebug/x86_64\" hello-jni",
+      "buildType": "debug",
+      "toolchain": "1382876473",
+      "abi": "x86_64",
+      "artifactName": "hello-jni",
+      "files": [
+        {
+          "src": "/home/daniel/Desktop/erlanglauncher/app/src/main/cpp/hello-jni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/daniel/Desktop/erlanglauncher/app/build/intermediates/cmake/universalDebug/obj/x86_64/libhello-jni.so"
+    }
+  },
+  "toolchains": {
+    "1382876473": {
+      "cCompilerExecutable": "/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

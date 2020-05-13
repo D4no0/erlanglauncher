@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ErlangLauncherTest.iml" filepath="$PROJECT_DIR$/ErlangLauncherTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/erlanglauncher/erlanglauncher.iml" filepath="$PROJECT_DIR$/erlanglauncher/erlanglauncher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/erlanglauncher/erlanglauncher-erlanglauncher.iml" filepath="$PROJECT_DIR$/erlanglauncher/erlanglauncher-erlanglauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/erlanglauncher.iml" filepath="$PROJECT_DIR$/.idea/modules/erlanglauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/erlanglauncher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/erlanglauncher.app.iml" />
     </modules>
   </component>
 </project>
-

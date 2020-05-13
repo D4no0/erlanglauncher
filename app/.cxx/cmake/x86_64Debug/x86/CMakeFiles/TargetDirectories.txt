@@ -1,0 +1,3 @@
+/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86/CMakeFiles/rebuild_cache.dir
+/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86/CMakeFiles/edit_cache.dir
+/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/x86_64Debug/x86/CMakeFiles/hello-jni.dir

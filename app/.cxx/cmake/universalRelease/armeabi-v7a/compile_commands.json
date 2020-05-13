@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalRelease/armeabi-v7a",
+  "command": "/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/daniel/Android/Sdk/ndk/21.1.6363665/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dhello_jni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles/hello-jni.dir/hello-jni.c.o   -c /home/daniel/Desktop/erlanglauncher/app/src/main/cpp/hello-jni.c",
+  "file": "/home/daniel/Desktop/erlanglauncher/app/src/main/cpp/hello-jni.c"
+}
+]

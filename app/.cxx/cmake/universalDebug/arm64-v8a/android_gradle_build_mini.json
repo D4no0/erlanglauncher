@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/home/daniel/Android/Sdk/ndk/21.1.6363665/build/cmake/android.toolchain.cmake",
+    "/home/daniel/Android/Sdk/ndk/21.1.6363665/build/cmake/platforms.cmake",
+    "/home/daniel/Desktop/erlanglauncher/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalDebug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalDebug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "hello-jni-Debug-arm64-v8a": {
+      "artifactName": "hello-jni",
+      "buildCommand": "/home/daniel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/universalDebug/arm64-v8a\" hello-jni",
+      "abi": "arm64-v8a",
+      "output": "/home/daniel/Desktop/erlanglauncher/app/build/intermediates/cmake/universalDebug/obj/arm64-v8a/libhello-jni.so"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+# ninja log v5
+0	49	1589374972	CMakeFiles/hello-jni.dir/hello-jni.c.o	663e86df1af1ff3c
+49	64	1589374972	/home/daniel/Desktop/erlanglauncher/app/build/intermediates/cmake/arm8Debug/obj/arm64-v8a/libhello-jni.so	9b7ba3b7f6f8108f

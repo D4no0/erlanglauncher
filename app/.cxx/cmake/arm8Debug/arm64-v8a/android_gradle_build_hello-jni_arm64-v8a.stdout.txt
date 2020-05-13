@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/daniel/Desktop/erlanglauncher/app/.cxx/cmake/arm8Debug/arm64-v8a'
+[1/2] Building C object CMakeFiles/hello-jni.dir/hello-jni.c.o
+[2/2] Linking C shared library /home/daniel/Desktop/erlanglauncher/app/build/intermediates/cmake/arm8Debug/obj/arm64-v8a/libhello-jni.so
